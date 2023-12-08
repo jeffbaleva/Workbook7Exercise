@@ -1,0 +1,36 @@
+
+body {
+    background-color: maroon;
+    color: black;
+}
+
+
+#container {
+    background-color: white; 
+    padding: 20px; 
+}
+
+
+label {
+    color: maroon; 
+}
+
+
+input[type="text"] {
+    border: 1px solid maroon; 
+    padding: 5px; 
+}
+
+
+button {
+    background-color: maroon;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+}
+
+
+#displayWord {
+    margin-top: 20px; 
+}
